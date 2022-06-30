@@ -1,7 +1,6 @@
-Marslink
+Mars Communication Pager
 ==========
 
-Abstract:
     Now-a-days, mobile applications implement complex
 functionalities that use device’s core features
 extensively. Mobile application development includes
